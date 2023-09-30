@@ -1,4 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&multiline=true&width=435&lines=AR+Shah;Full+Stack+Engineer)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AR-SHAH&theme=highcontrast)](https://git.io/streak-stats)
+
 👋 Hello, World!
 
 🚀 Full-stack Developer | Code Enthusiast | Open Source Advocate
