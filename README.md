@@ -17,3 +17,8 @@
 🔗 Connect with me on LinkedIn: [Your LinkedIn Profile URL]
 
 Happy coding! 🚀
+
+![Python Developer](https://img.shields.io/badge/Python-Developer-blue?style=flat&logo=python)
+![Django Developer](https://img.shields.io/badge/Django-Developer-green?style=flat&logo=django)
+![Flask Developer](https://img.shields.io/badge/Flask-Developer-orange?style=flat&logo=flask)
+![Docker Enthusiast](https://img.shields.io/badge/Docker-Enthusiast-blue?style=flat&logo=docker)
