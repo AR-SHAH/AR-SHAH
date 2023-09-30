@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1&color=C16EF7&multiline=true&width=435&height=70&lines=AR+Shah;Full+Stack+Engineer)](https://git.io/typing-svg)
 <a href="https://app.daily.dev/arshah"><img align="right" src="https://api.daily.dev/devcards/10e92dd83543404393391277f9f34b48.png?r=qcc" width="320" alt="AR Shah's Dev Card"/></a>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=AR-SHAH&show_icons=true&theme=dark" width="495">
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AR-SHAH&theme=dark&ring=DD2727)](https://git.io/streak-stats)
 <br>
 <img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR-SHAH&layout=compact&theme=cobalt&hide_border=true"/>
